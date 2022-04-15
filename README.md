@@ -1,4 +1,4 @@
-# HRGNet: Low-Light Image Enhancement via Hybrid Representation Guidance Network
+# HRGNet: Low-Light Image Enhancement via Hybrid Representation Guided Network
 We public the network source code and datasets for the HRGNet.
 
 ### Datasets
